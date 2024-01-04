@@ -1,0 +1,19 @@
+.main{
+    min-height: 100vh;
+
+    background-color: #ffffff;
+}
+.body{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.space{
+    padding-right: 10px;
+}
+.t1{
+    text-align: right;
+    margin-right: 2%;
+}
+.nav{
+    text-align: center;
+}

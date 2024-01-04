@@ -1,0 +1,35 @@
+.main{
+    min-height: 100vh;
+    display: grid;
+    background-color: #03032c;
+}
+.t1{
+    margin-left: 5%;
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+.t2{
+    display: inline-block;
+}
+.t3{
+    display: inline-block;
+    width: 50%;
+}
+.t4{
+    text-align: left;
+}
+.t5{
+    display: inline-block;
+    width: 50%;
+}
+.hr{
+    margin-right: 5%;
+    height:2px;
+    border-width:0;
+    color: blue;
+    background-color: blue;
+}
+.nav{
+    text-align: center;
+}

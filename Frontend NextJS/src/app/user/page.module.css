@@ -1,0 +1,51 @@
+.main {
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+.body {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.t1 {
+    background-color: rgb(6, 4, 69);
+    color: #ffffff;
+    text-align: center;
+    margin-right: 2%;
+}
+
+.nav {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: grid;
+    font-size: 16px;
+}
+
+
+.t2 {
+    font-size: 30px;
+}
+
+.t3 {
+    font-size: 20px;
+}
+
+.t4 {
+    height: 40px;
+    width: 30%;
+    font-size: 20px;
+}
+
+.button {
+    border: none;
+    border-radius: 18px;
+    height: 40px;
+    width: 10%;
+    background-color: rgb(14, 14, 255);
+    color: #ffffff;
+}
